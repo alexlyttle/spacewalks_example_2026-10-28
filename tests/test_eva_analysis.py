@@ -1,5 +1,5 @@
 import pytest
-from eva_data_analysis import (
+from spacewalks.analyse import (
     text_to_duration,
     calculate_crew_size
 )
